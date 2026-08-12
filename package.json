@@ -1,0 +1,27 @@
+{
+  "name": "2026-2sem-itapevi-d23n-crud-livros-relampago",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muriloesantos/2026-2sem-itapevi-d23n-crud-livros-relampago.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/muriloesantos/2026-2sem-itapevi-d23n-crud-livros-relampago/issues"
+  },
+  "homepage": "https://github.com/muriloesantos/2026-2sem-itapevi-d23n-crud-livros-relampago#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
