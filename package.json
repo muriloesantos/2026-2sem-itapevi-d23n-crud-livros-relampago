@@ -1,5 +1,5 @@
 {
-  "name": "2026-2sem-itapevi-d23n-crud-livros-relampago",
+  "name": "2026-ds3n-crud-livros-relampago",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muriloesantos/2026-2sem-itapevi-d23n-crud-livros-relampago.git"
+    "url": "git+https://github.com/Browr007/2026-ds3n-crud-livros-relampago.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/muriloesantos/2026-2sem-itapevi-d23n-crud-livros-relampago/issues"
+    "url": "https://github.com/Browr007/2026-ds3n-crud-livros-relampago/issues"
   },
-  "homepage": "https://github.com/muriloesantos/2026-2sem-itapevi-d23n-crud-livros-relampago#readme",
+  "homepage": "https://github.com/Browr007/2026-ds3n-crud-livros-relampago#readme",
   "dependencies": {
-    "express": "^5.2.1"
-  },
-  "devDependencies": {
+    "-": "^0.0.1-security.1",
+    "D": "^1.0.0",
+    "express": "^5.2.1",
     "nodemon": "^3.1.14"
   }
 }
